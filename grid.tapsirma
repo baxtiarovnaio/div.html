@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Tapsirma</title>
+    </head>
+    <body>
+        <div style="
+            margin-top: 30PX;
+            display: grid;
+            grid-template-columns: 50px 300px 75px">
+             <div style="background-color: lightblue;">50px</div>   
+             <div style="background-color: lightcoral;">300px</div>
+             <div style="background-color: lightgreen;">75px</div>
+        </div>
+    </body>
+</html>
